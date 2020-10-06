@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/huff/huff/huff.c
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+ctype.h
+-
+huff.h
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/huff/huff/huff.h
+
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/huff/huff/huff.h
+

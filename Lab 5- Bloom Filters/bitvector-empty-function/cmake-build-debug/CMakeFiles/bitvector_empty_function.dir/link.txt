@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/bitvector_empty_function.dir/bitset.c.o CMakeFiles/bitvector_empty_function.dir/bloom.c.o CMakeFiles/bitvector_empty_function.dir/main.c.o  -o bitvector_empty_function.exe -Wl,--out-implib,libbitvector_empty_function.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

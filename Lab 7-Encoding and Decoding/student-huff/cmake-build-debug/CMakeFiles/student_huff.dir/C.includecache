@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/bitfile.c
+stdlib.h
+-
+assert.h
+-
+string.h
+-
+stdio.h
+-
+bitfile.h
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/bitfile.h
+
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/bitfile.h
+
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/huff.c
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+ctype.h
+-
+huff.h
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/huff.h
+bitfile.h
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/bitfile.h
+
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/huff.h
+
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+huff.h
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/huff.h
+

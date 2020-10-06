@@ -1,0 +1,3 @@
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/cmake-build-debug/CMakeFiles/student_huff.dir
+/cygdrive/c/Users/ellen/OneDrive/Documents/Academic/Year 2/Systems Prog/Labs/Lab 7-encodedecode/student-huff/cmake-build-debug/CMakeFiles/edit_cache.dir

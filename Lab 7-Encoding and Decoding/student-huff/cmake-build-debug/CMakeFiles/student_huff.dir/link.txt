@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/student_huff.dir/bitfile.c.o CMakeFiles/student_huff.dir/huff.c.o CMakeFiles/student_huff.dir/main.c.o  -o student_huff.exe -Wl,--out-implib,libstudent_huff.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
